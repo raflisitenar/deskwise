@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mydeskwise.vercel.app/sitemap.xml
